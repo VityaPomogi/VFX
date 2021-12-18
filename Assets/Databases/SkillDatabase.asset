@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c744c23aee3a4eb1a5e25d39880a28b, type: 3}
+  m_Name: SkillDatabase
+  m_EditorClassIdentifier: 
+  skillImageFolderPath: SkillImages/
+  skillDataList:
+  - skillId: 1
+    skillName: Attack
+    skillDescription: Attack the closest enemy.
+    skillImageFileName: Skill Card Art_Mech_Attack
+  - skillId: 2
+    skillName: Slam
+    skillDescription: Attacks all enemies. Enemies each step away take 1/2 the previous
+      step's damage.
+    skillImageFileName: 
+  - skillId: 3
+    skillName: Bite
+    skillDescription: Hit enemy gains 3 Poison stacks.
+    skillImageFileName: Skill Card Art_Comet_Bite
+  - skillId: 4
+    skillName: Tank PYM Passive
+    skillDescription: Gain 2 Growing stacks whenever an ally is killed.
+    skillImageFileName: 
+  - skillId: 5
+    skillName: Absorption
+    skillDescription: Steal 1 AP from the enemy team.
+    skillImageFileName: 
+  - skillId: 6
+    skillName: Rage
+    skillDescription: Gain Power Up for 2 rounds.
+    skillImageFileName: 
+  - skillId: 7
+    skillName: Double Strike
+    skillDescription: Attack 2 times randomly.
+    skillImageFileName: 
+  - skillId: 8
+    skillName: Mark Target
+    skillDescription: A random enemy gains Marked.
+    skillImageFileName: Skill Card Art_Aqua_Mark Target_v2
+  - skillId: 9
+    skillName: Jet
+    skillDescription: All allies and you gain Speed Up for 1 round.
+    skillImageFileName: 
+  - skillId: 10
+    skillName: Mech Passive
+    skillDescription: Gain 5 Morale Points per successful hit during your turn.
+    skillImageFileName: Skill Card Art_Mech_Passive Skill
+  - skillId: 11
+    skillName: Triple Strike
+    skillDescription: Attacks 3 times randomly.
+    skillImageFileName: 
+  - skillId: 12
+    skillName: Mech Passive
+    skillDescription: Gain 5 Morale Points per successful hit during your turn.
+    skillImageFileName: 
+  - skillId: 13
+    skillName: Overdrive
+    skillDescription: Move 1 step front and gain Overdrive. 1 Combo Required.
+    skillImageFileName: 
+  - skillId: 14
+    skillName: Defend
+    skillDescription: Gain Defend for 1 round.
+    skillImageFileName: Skill Card Art_Nature_Defence
+  - skillId: 15
+    skillName: Heal
+    skillDescription: Move 1 step back and recover 30% of your max health.
+    skillImageFileName: 
+  - skillId: 16
+    skillName: Stomp
+    skillDescription: Move 2 step front. Closest enemy gains Stunned.
+    skillImageFileName: Skill Card Art_Nature_Stomp

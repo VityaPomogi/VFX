@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: '#DecorativeItems'
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c6723418c0f734dca9fe5c6436563982, type: 3}
+    - {fileID: 2800000, guid: aca839c86af42445493dce2be2ea6692, type: 3}
+    - {fileID: 2800000, guid: ecbb373f2786e4c908ce0655a50246ee, type: 3}
+    - {fileID: 2800000, guid: 7287985cfd45f4c6bbfc658e362968f9, type: 3}
+    - {fileID: 2800000, guid: bb126a3135fcb47259f545feb1ac8c55, type: 3}
+    - {fileID: 2800000, guid: d47e4c9757dd9403f9d73832c0080bce, type: 3}
+    - {fileID: 2800000, guid: 0ac0a8b1c13b34cd88aa578d492196f1, type: 3}
+    - {fileID: 2800000, guid: f9d1097ee88c04fb5826df2f18a89ff0, type: 3}
+    - {fileID: 2800000, guid: e7fc4b21e5edb49fc9fd6f733fb9b3ea, type: 3}
+    - {fileID: 2800000, guid: 83e5e1fe364e84af19ac22c148ecc444, type: 3}
+    totalSpriteSurfaceArea: 628072
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e7fc4b21e5edb49fc9fd6f733fb9b3ea, type: 3}
+  - {fileID: 21300000, guid: bb126a3135fcb47259f545feb1ac8c55, type: 3}
+  - {fileID: 21300000, guid: 0ac0a8b1c13b34cd88aa578d492196f1, type: 3}
+  - {fileID: 21300000, guid: d47e4c9757dd9403f9d73832c0080bce, type: 3}
+  - {fileID: 21300000, guid: c6723418c0f734dca9fe5c6436563982, type: 3}
+  - {fileID: 21300000, guid: aca839c86af42445493dce2be2ea6692, type: 3}
+  - {fileID: 21300000, guid: 7287985cfd45f4c6bbfc658e362968f9, type: 3}
+  - {fileID: 21300000, guid: f9d1097ee88c04fb5826df2f18a89ff0, type: 3}
+  - {fileID: 21300000, guid: 83e5e1fe364e84af19ac22c148ecc444, type: 3}
+  - {fileID: 21300000, guid: ecbb373f2786e4c908ce0655a50246ee, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SpaceDen Items - Toys
+  - SpaceDen Items - Map
+  - SpaceDen Items - Stickers
+  - SpaceDen Items - Plant
+  - SpaceDen Items - Carpet
+  - SpaceDen Items - Chair
+  - SpaceDen Items - Hologram Table
+  - SpaceDen Items - Telescope
+  - SpaceDen Items - TV
+  - SpaceDen Items - Crayons
+  m_RenderDataMap: {}
+  m_Tag: '#DecorativeItems'
+  m_IsVariant: 0

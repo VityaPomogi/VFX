@@ -1,0 +1,314 @@
+{
+  "status": 1,
+  "data": {
+    "signature": "test_123",
+    "current_time_ms": 1639246460000,
+    "website_url": "https://playermon.com",
+    "terms_of_use_url": "https://playermon.com/term-of-use.html",
+    "tutorial_url": "https://playermon.com/tutorial.html",
+    "marketplace_url": "https://playermon.com/marketplace.html",
+    "announcements": [
+      "https://playermon.com/img/horizontal_logo.0750ec9f.png",
+      "https://playermon.com/img/coming_soon_text.a822f30e.png"
+    ],
+    "user_profile": {
+      "username": "Tester 5",
+      "title": "Playermon Master",
+      "pym_tokens": 20,
+      "sgem_tokens": 250,
+      "current_energy_points": 20,
+      "maximum_energy_points": 20,
+      "energy_update_remaining_seconds": 0,
+      "selected_team":
+        {
+          "id": 1,
+          "name": "MasterTeam",
+          "is_selected": true,
+          "playermons": [
+            {
+              "id": 1,
+              "class_type": 1,
+              "level": 1,
+              "current_experience": 100,
+              "maximum_experience": 500,
+              "hitpoint": 500,
+              "bonus_damage": 100,
+              "critical_hit": 0.25,
+              "position_in_battle": 5,
+              "stats": {
+                "health": 50,
+                "speed": 30,
+                "skill": 40,
+                "morale": 30
+              },
+              "swappable_body_parts": [
+                {
+                  "category": "head",
+                  "label": "1",
+                  "skill": null
+                },
+                {
+                  "category": "eye",
+                  "label": "1",
+                  "skill": {
+                    "id": 1,
+                    "name": "Focus Staring",
+                    "type": 1,
+                    "class_type": 1,
+                    "action_points": 0,
+                    "attack_damage": 30,
+                    "shield": 25
+                  }
+                },
+                {
+                  "category": "arm",
+                  "label": "1",
+                  "skill": {
+                    "id": 1,
+                    "name": "Attack",
+                    "type": 1,
+                    "class_type": 1,
+                    "action_points": 1,
+                    "attack_damage": 120,
+                    "shield": 0
+                  }
+                },
+                {
+                  "category": "leg",
+                  "label": "1",
+                  "skill": null
+                },
+                {
+                  "category": "body",
+                  "label": "1",
+                  "skill": {
+                    "id": 1,
+                    "name": "Defend",
+                    "type": 1,
+                    "class_type": 1,
+                    "action_points": 1,
+                    "attack_damage": 0,
+                    "shield": 120
+                  }
+                },
+                {
+                  "category": "tail_object",
+                  "label": "1",
+                  "skill": {
+                    "id": 1,
+                    "name": "Swing",
+                    "type": 1,
+                    "class_type": 1,
+                    "action_points": 1,
+                    "attack_damage": 50,
+                    "shield": 50
+                  }
+                },
+                {
+                  "category": "chest_object",
+                  "label": "1",
+                  "skill": {
+                    "id": 1,
+                    "name": "Bonus Morale",
+                    "type": 2,
+                    "class_type": 1,
+                    "action_points": 0,
+                    "attack_damage": 0,
+                    "shield": 0
+                  }
+                }
+              ]
+            },
+             {
+              "id": 1,
+              "class_type": 1,
+              "level": 1,
+              "current_experience": 100,
+              "maximum_experience": 500,
+              "hitpoint": 500,
+              "bonus_damage": 100,
+              "critical_hit": 0.25,
+              "position_in_battle": 5,
+              "stats": {
+                "health": 50,
+                "speed": 30,
+                "skill": 40,
+                "morale": 30
+              },
+              "swappable_body_parts": [
+                {
+                  "category": "head",
+                  "label": "2",
+                  "skill": null
+                },
+                {
+                  "category": "eye",
+                  "label": "3",
+                  "skill": {
+                    "id": 1,
+                    "name": "Focus Staring",
+                    "type": 1,
+                    "class_type": 1,
+                    "action_points": 0,
+                    "attack_damage": 30,
+                    "shield": 25
+                  }
+                },
+                {
+                  "category": "arm",
+                  "label": "4",
+                  "skill": {
+                    "id": 1,
+                    "name": "Attack",
+                    "type": 1,
+                    "class_type": 1,
+                    "action_points": 1,
+                    "attack_damage": 120,
+                    "shield": 0
+                  }
+                },
+                {
+                  "category": "leg",
+                  "label": "5",
+                  "skill": null
+                },
+                {
+                  "category": "body",
+                  "label": "6",
+                  "skill": {
+                    "id": 1,
+                    "name": "Defend",
+                    "type": 1,
+                    "class_type": 1,
+                    "action_points": 1,
+                    "attack_damage": 0,
+                    "shield": 120
+                  }
+                },
+                {
+                  "category": "tail_object",
+                  "label": "7",
+                  "skill": {
+                    "id": 1,
+                    "name": "Swing",
+                    "type": 1,
+                    "class_type": 1,
+                    "action_points": 1,
+                    "attack_damage": 50,
+                    "shield": 50
+                  }
+                },
+                {
+                  "category": "chest_object",
+                  "label": "8",
+                  "skill": {
+                    "id": 1,
+                    "name": "Bonus Morale",
+                    "type": 2,
+                    "class_type": 1,
+                    "action_points": 0,
+                    "attack_damage": 0,
+                    "shield": 0
+                  }
+                }
+              ]
+            },
+             {
+              "id": 1,
+              "class_type": 1,
+              "level": 1,
+              "current_experience": 100,
+              "maximum_experience": 500,
+              "hitpoint": 500,
+              "bonus_damage": 100,
+              "critical_hit": 0.25,
+              "position_in_battle": 5,
+              "stats": {
+                "health": 50,
+                "speed": 30,
+                "skill": 40,
+                "morale": 30
+              },
+              "swappable_body_parts": [
+                {
+                  "category": "head",
+                  "label": "9",
+                  "skill": null
+                },
+                {
+                  "category": "eye",
+                  "label": "10",
+                  "skill": {
+                    "id": 1,
+                    "name": "Focus Staring",
+                    "type": 1,
+                    "class_type": 1,
+                    "action_points": 0,
+                    "attack_damage": 30,
+                    "shield": 25
+                  }
+                },
+                {
+                  "category": "arm",
+                  "label": "11",
+                  "skill": {
+                    "id": 1,
+                    "name": "Attack",
+                    "type": 1,
+                    "class_type": 1,
+                    "action_points": 1,
+                    "attack_damage": 120,
+                    "shield": 0
+                  }
+                },
+                {
+                  "category": "leg",
+                  "label": "12",
+                  "skill": null
+                },
+                {
+                  "category": "body",
+                  "label": "13",
+                  "skill": {
+                    "id": 1,
+                    "name": "Defend",
+                    "type": 1,
+                    "class_type": 1,
+                    "action_points": 1,
+                    "attack_damage": 0,
+                    "shield": 120
+                  }
+                },
+                {
+                  "category": "tail_object",
+                  "label": "14",
+                  "skill": {
+                    "id": 1,
+                    "name": "Swing",
+                    "type": 1,
+                    "class_type": 1,
+                    "action_points": 1,
+                    "attack_damage": 50,
+                    "shield": 50
+                  }
+                },
+                {
+                  "category": "chest_object",
+                  "label": "15",
+                  "skill": {
+                    "id": 1,
+                    "name": "Bonus Morale",
+                    "type": 2,
+                    "class_type": 1,
+                    "action_points": 0,
+                    "attack_damage": 0,
+                    "shield": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+    }
+  }
+}

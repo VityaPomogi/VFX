@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: '#UserLoginScene'
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6898072d645274fe488ab51d1edcfc58, type: 3}
+    totalSpriteSurfaceArea: 732022
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fc4ee575643104aef9eb392866c7405c, type: 3}
+  - {fileID: 21300000, guid: 9cd5a5a57e7704c1dae6199ad70bfb70, type: 3}
+  - {fileID: 21300000, guid: 38328a46827ea4c9e9c159c5ccea19bc, type: 3}
+  - {fileID: 21300000, guid: a0aa5b59e8246432b8453011122b8d4f, type: 3}
+  - {fileID: 21300000, guid: 1f908b692fae14545b1ea89d271b4845, type: 3}
+  - {fileID: 21300000, guid: 8a2a098a821374a158cfffddf626b4c9, type: 3}
+  - {fileID: 21300000, guid: 9dc644bd21fb0470e94dc1fb0672cdd3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Icon_Alert
+  - Login Panel_Login Button
+  - Red Button
+  - Red Bar
+  - Button_Green_SS
+  - Login Panel_Background Panel
+  - Login Panel_QR Code Button
+  m_RenderDataMap: {}
+  m_Tag: '#UserLoginScene'
+  m_IsVariant: 0

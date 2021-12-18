@@ -1,0 +1,132 @@
+{
+  "status": 1,
+  "data": {
+    "signature": "test_123",
+    "current_time_ms": 1639246460000,
+    "website_url": "https://playermon.com",
+    "terms_of_use_url": "https://playermon.com/term-of-use.html",
+    "tutorial_url": "https://playermon.com/tutorial.html",
+    "marketplace_url": "https://playermon.com/marketplace.html",
+    "announcements": [
+      "https://playermon.com/img/horizontal_logo.0750ec9f.png",
+      "https://playermon.com/img/coming_soon_text.a822f30e.png"
+    ],
+    "user_profile": {
+      "username": "Tester 4",
+      "title": "Playermon Master",
+      "pym_tokens": 20,
+      "sgem_tokens": 250,
+      "current_energy_points": 20,
+      "maximum_energy_points": 20,
+      "energy_update_remaining_seconds": 0,
+      "selected_team": null,
+      "random_playermons": [
+        {
+          "index": 1,
+          "id": 1,
+          "class_type": 1,
+          "swappable_body_parts": [
+            {
+              "category": "head",
+              "label": "1"
+            },
+            {
+              "category": "eye",
+              "label": "1"
+            },
+            {
+              "category": "arm",
+              "label": "1"
+            },
+            {
+              "category": "leg",
+              "label": "1"
+            },
+            {
+              "category": "body",
+              "label": "1"
+            },
+            {
+              "category": "tail_object",
+              "label": "1"
+            },
+            {
+              "category": "chest_object",
+              "label": "1"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "id": 2,
+          "class_type": 1,
+          "swappable_body_parts": [
+            {
+              "category": "head",
+              "label": "2"
+            },
+            {
+              "category": "eye",
+              "label": "3"
+            },
+            {
+              "category": "arm",
+              "label": "4"
+            },
+            {
+              "category": "leg",
+              "label": "5"
+            },
+            {
+              "category": "body",
+              "label": "6"
+            },
+            {
+              "category": "tail_object",
+              "label": "7"
+            },
+            {
+              "category": "chest_object",
+              "label": "8"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "id": 3,
+          "class_type": 1,
+          "swappable_body_parts": [
+            {
+              "category": "head",
+              "label": "9"
+            },
+            {
+              "category": "eye",
+              "label": "10"
+            },
+            {
+              "category": "arm",
+              "label": "11"
+            },
+            {
+              "category": "leg",
+              "label": "12"
+            },
+            {
+              "category": "body",
+              "label": "13"
+            },
+            {
+              "category": "tail_object",
+              "label": "14"
+            },
+            {
+              "category": "chest_object",
+              "label": "15"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

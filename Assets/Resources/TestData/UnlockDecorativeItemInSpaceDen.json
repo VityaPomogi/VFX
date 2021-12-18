@@ -1,0 +1,29 @@
+{
+  "status": 1,
+  "data": {
+    "user_profile": {
+      "username": "MonMaster",
+      "title": "Playermon Master",
+      "pym_tokens": 20,
+      "sgem_tokens": 200,
+      "current_energy_points": 10,
+      "maximum_energy_points": 20,
+      "energy_update_remaining_seconds": 3600
+    },
+    "spaceden_progress": {
+      "current_love_rank": 9,
+      "maximum_love_rank": 10,
+      "current_love_points": 25,
+      "maximum_love_points": 100,
+      "crisis_cooldown_remaining_seconds": 30000,
+      "crisis_sgem_tokens_rewarded": 5,
+      "gift_boxes": 4,
+      "unlocked_decorative_item_ids": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  }
+}

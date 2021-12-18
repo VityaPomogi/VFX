@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 853037390623e465e88aafd6e1026275, type: 3}
+  m_Name: CharacterDatabase
+  m_EditorClassIdentifier: 
+  headDataList:
+  - headId: 1
+    headSprite: {fileID: 21300000, guid: ef004316e460145e38a13b9bb2ab54e7, type: 3}
+  - headId: 2
+    headSprite: {fileID: 21300000, guid: 8532e579ef71d4cf496f9365e8065623, type: 3}
+  - headId: 3
+    headSprite: {fileID: 21300000, guid: 5d4e8114470214c2fa890610bd1ae652, type: 3}
+  - headId: 4
+    headSprite: {fileID: 21300000, guid: 6a77fff81b2cf4b65b0c4fdd1e113b18, type: 3}
+  - headId: 5
+    headSprite: {fileID: 21300000, guid: 824aece79babd496986e0bb28d3c617d, type: 3}
+  - headId: 6
+    headSprite: {fileID: 21300000, guid: bfbdd0e356ed745a98abc57d95f95134, type: 3}
+  - headId: 7
+    headSprite: {fileID: 21300000, guid: f457bbcb5d8114a968456ec125e0b383, type: 3}
+  - headId: 8
+    headSprite: {fileID: 21300000, guid: afec52f046078448ebd198a45469a047, type: 3}
+  - headId: 9
+    headSprite: {fileID: 21300000, guid: d6c304b650433426c9ffc8961587c178, type: 3}
+  - headId: 10
+    headSprite: {fileID: 21300000, guid: 318781ee5e2d946c69da77a7df5d0ed5, type: 3}
+  - headId: 11
+    headSprite: {fileID: 21300000, guid: ec9f3f490c5714c05bdffe5ea73859af, type: 3}
+  eyeDataList:
+  - eyeId: 1
+    eyeSprite: {fileID: 21300000, guid: 1d5a5434430f9458da9d3dfebc7c6cb4, type: 3}
+  - eyeId: 2
+    eyeSprite: {fileID: 21300000, guid: ca21332592f604de8b74e2df9ee3c1ad, type: 3}
+  - eyeId: 3
+    eyeSprite: {fileID: 21300000, guid: e26390614204b40248cf07acb5e58057, type: 3}
+  - eyeId: 4
+    eyeSprite: {fileID: 21300000, guid: 6d72cd88c56814718aaf420280bb7c3f, type: 3}
+  - eyeId: 5
+    eyeSprite: {fileID: 21300000, guid: 2457446b228d743d5b9b67ea0fc6e2f0, type: 3}
+  - eyeId: 6
+    eyeSprite: {fileID: 21300000, guid: 10448afb4e8a24d258d04d47ad801413, type: 3}
+  - eyeId: 7
+    eyeSprite: {fileID: 21300000, guid: b1de0d68d49e94153b5cce53d248db70, type: 3}
+  - eyeId: 8
+    eyeSprite: {fileID: 21300000, guid: f52859767da8146b39aaaa9d8379b433, type: 3}
+  - eyeId: 9
+    eyeSprite: {fileID: 21300000, guid: e26dca98383b347b0ad0614e3b07d6e8, type: 3}
+  - eyeId: 10
+    eyeSprite: {fileID: 21300000, guid: 6b43e65631b5b44bd8fc23e0369ca2f6, type: 3}
+  - eyeId: 11
+    eyeSprite: {fileID: 21300000, guid: 5da08c3074a5544c09d717285893404f, type: 3}
+  bodyDataList:
+  - bodyId: 1
+    bodySprite: {fileID: 21300000, guid: ef53c1d03b4d1468a815ed8963b07a13, type: 3}
+  - bodyId: 2
+    bodySprite: {fileID: 21300000, guid: 65cc6e21f492241999ef76568938abc2, type: 3}
+  - bodyId: 3
+    bodySprite: {fileID: 21300000, guid: 3faafc690a7a1412999f41772895befe, type: 3}
+  - bodyId: 4
+    bodySprite: {fileID: 21300000, guid: 8e918f7436e6f40109cc999d8b933098, type: 3}
+  - bodyId: 5
+    bodySprite: {fileID: 21300000, guid: 032cc4225b7a343fcaaade5da50f9df3, type: 3}
+  - bodyId: 6
+    bodySprite: {fileID: 21300000, guid: 6a3d45cae14f44f2892cb6295e3cbdea, type: 3}
+  - bodyId: 7
+    bodySprite: {fileID: 21300000, guid: 3c8915e0c13af4951aad66745fa25170, type: 3}
+  - bodyId: 8
+    bodySprite: {fileID: 21300000, guid: 6198eb698e8154e1690bff30bd7bb48f, type: 3}
+  - bodyId: 9
+    bodySprite: {fileID: 21300000, guid: 4e4034c21900e4ef090dc6a12ee0fd74, type: 3}
+  - bodyId: 10
+    bodySprite: {fileID: 21300000, guid: 652775f6e0c3c444f9ef767d2b4a05a9, type: 3}
+  - bodyId: 11
+    bodySprite: {fileID: 21300000, guid: 7d5214ca8ad0948368db0d5944481b1a, type: 3}

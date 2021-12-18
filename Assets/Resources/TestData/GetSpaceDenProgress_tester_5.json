@@ -1,0 +1,171 @@
+{
+  "status": 1,
+  "data": {
+    "is_first_time": true,
+    "user_profile": {
+      "username": "Tester 5",
+      "title": "Playermon Master",
+      "pym_tokens": 20,
+      "sgem_tokens": 250,
+      "current_energy_points": 10,
+      "maximum_energy_points": 20,
+      "energy_update_remaining_seconds": 3600
+    },
+    "spaceden_progress": {
+      "current_love_rank": 9,
+      "maximum_love_rank": 10,
+      "current_love_points": 25,
+      "maximum_love_points": 100,
+      "crisis_cooldown_remaining_seconds": 10,
+      "crisis_sgem_tokens_rewarded": 20,
+      "gift_boxes": 5,
+      "unlocked_decorative_item_ids": [
+        1,
+        2,
+        3
+      ]
+    },
+    "spaceden_actions": [
+      {
+        "action_type": 1,
+        "target_value": 280,
+        "value_increase_per_second": 100,
+        "value_increase_per_trigger": 0,
+        "love_points_earned": 5
+      },
+      {
+        "action_type": 2,
+        "target_value": 240,
+        "value_increase_per_second": 100,
+        "value_increase_per_trigger": 0,
+        "love_points_earned": 5
+      },
+      {
+        "action_type": 3,
+        "target_value": 240,
+        "value_increase_per_second": 100,
+        "value_increase_per_trigger": 0,
+        "love_points_earned": 5
+      }
+    ],
+    "spaceden_crisis": {
+      "sgem_reward_for_completion": {
+        "zero_actual_playermon": 0,
+        "one_actual_playermon": 5,
+        "two_actual_playermons": 10,
+        "three_actual_playermons": 20
+      }
+    },
+    "number_of_actual_playermons": 3,
+    "playermon_request_interval_in_seconds": 5,
+    "playermon_request_interval_random_in_seconds": 7,
+    "player_action_submission_interval_in_seconds": 30,
+    "playermons": [
+      {
+        "index": 1,
+        "id": 1,
+        "class_type": 1,
+        "swappable_body_parts": [
+          {
+            "category": "head",
+            "label": "1"
+          },
+          {
+            "category": "eye",
+            "label": "1"
+          },
+          {
+            "category": "arm",
+            "label": "1"
+          },
+          {
+            "category": "leg",
+            "label": "1"
+          },
+          {
+            "category": "body",
+            "label": "1"
+          },
+          {
+            "category": "tail_object",
+            "label": "1"
+          },
+          {
+            "category": "chest_object",
+            "label": "1"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "id": 2,
+        "class_type": 1,
+        "swappable_body_parts": [
+          {
+            "category": "head",
+            "label": "2"
+          },
+          {
+            "category": "eye",
+            "label": "3"
+          },
+          {
+            "category": "arm",
+            "label": "4"
+          },
+          {
+            "category": "leg",
+            "label": "5"
+          },
+          {
+            "category": "body",
+            "label": "6"
+          },
+          {
+            "category": "tail_object",
+            "label": "7"
+          },
+          {
+            "category": "chest_object",
+            "label": "8"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "id": 3,
+        "class_type": 1,
+        "swappable_body_parts": [
+          {
+            "category": "head",
+            "label": "9"
+          },
+          {
+            "category": "eye",
+            "label": "10"
+          },
+          {
+            "category": "arm",
+            "label": "11"
+          },
+          {
+            "category": "leg",
+            "label": "12"
+          },
+          {
+            "category": "body",
+            "label": "13"
+          },
+          {
+            "category": "tail_object",
+            "label": "14"
+          },
+          {
+            "category": "chest_object",
+            "label": "15"
+          }
+        ]
+      }
+    ]
+  }
+}

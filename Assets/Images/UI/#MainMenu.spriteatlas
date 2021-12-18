@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: '#MainMenu'
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 42d59740413ee40d7ae46e49b969ad16, type: 3}
+    totalSpriteSurfaceArea: 795975
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2dbceb60366905b45b2e3b4f673c9d7f, type: 3}
+  - {fileID: 21300000, guid: f1171870efeb490408e0febc82568a9b, type: 3}
+  - {fileID: 21300000, guid: 70e1b7900916c644bbc9bc89a1b48fcc, type: 3}
+  - {fileID: 21300000, guid: fc85ec908eea54f1d82edc1ef600e02a, type: 3}
+  - {fileID: 21300000, guid: 9252a951c76844f258e8985491660b7d, type: 3}
+  - {fileID: 21300000, guid: 7e991e1292fe41744afc9c40530acc2e, type: 3}
+  - {fileID: 21300000, guid: 14fe6352a91e249359f905e6081d91c9, type: 3}
+  - {fileID: 21300000, guid: 823634b70f3749341b89fd8f3d9d0624, type: 3}
+  - {fileID: 21300000, guid: 0bb050781b7457f4fa3f18409ef50fab, type: 3}
+  - {fileID: 21300000, guid: ee7cfa093c89ed646bba1f6c5c1dfadf, type: 3}
+  - {fileID: 21300000, guid: d6c5a44a9485a4ffeb364fe26f23f369, type: 3}
+  - {fileID: 21300000, guid: ab9e674a9073a4e81a0cd0dff10c38e4, type: 3}
+  - {fileID: 21300000, guid: 73a12a6a91131470dbd1939f1fe9c02c, type: 3}
+  - {fileID: 21300000, guid: a58385aa8b65b2540af67103ce679d48, type: 3}
+  - {fileID: 21300000, guid: 282bdd7cd5260b642a1589d1d8038f75, type: 3}
+  - {fileID: 21300000, guid: 3790153d1918de742a9cede0d1fbb5df, type: 3}
+  - {fileID: 21300000, guid: 5ed13a5dcf2284e33a575657f34b66d0, type: 3}
+  - {fileID: 21300000, guid: 2c1c6abdcc454104d8de427a5d23cda3, type: 3}
+  - {fileID: 21300000, guid: 1ade4baedbb4e324dbc4b98af6df8b3f, type: 3}
+  - {fileID: 21300000, guid: 8b208fafe26853c4aa5651a9aeff5991, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Event Button_SpaceDen
+  - Panel_Event Button
+  - Mask Fame_Players Profile
+  - Action Button_Friendlist
+  - Action Button_Playermons
+  - Info Box_Event Panel
+  - Action Button_Teams
+  - Button_Logout
+  - Button_Setting
+  - Info Box_Username
+  - Action Button_Leaderboard
+  - Profile_Playermon Master
+  - Action Button_Battlelog
+  - Event Button_Adventure
+  - Info Box_Energy Point Counter
+  - Event Button_BattleGround
+  - Icon_Locked
+  - Info Box_SGEM Counter
+  - Info Box_Event Panel Mask
+  - Button_Tutorial
+  m_RenderDataMap: {}
+  m_Tag: '#MainMenu'
+  m_IsVariant: 0

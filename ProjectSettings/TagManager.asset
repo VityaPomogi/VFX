@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Effect_Behind
+  - Game
+  - Effect_Front
+  - PopUp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Playermon
+    uniqueID: 747456137
+    locked: 0
+  - name: SpeechBubble
+    uniqueID: 490838453
+    locked: 0
+  - name: Top_Defend
+    uniqueID: 2956367445
+    locked: 0
+  - name: Top_Attack
+    uniqueID: 1577934223
+    locked: 0
+  - name: Mid_Defend
+    uniqueID: 1656604347
+    locked: 0
+  - name: Mid_Attack
+    uniqueID: 3079148249
+    locked: 0
+  - name: Bottom_Defend
+    uniqueID: 3983562271
+    locked: 0
+  - name: Bottom_Attack
+    uniqueID: 3855546435
+    locked: 0
+  - name: FloatingNumber
+    uniqueID: 2517075969
+    locked: 0

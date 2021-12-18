@@ -1,0 +1,26 @@
+{
+  "status": 1,
+  "data": {
+    "signature": "test_123",
+    "current_time_ms": 1639246460000,
+    "website_url": "https://playermon.com",
+    "terms_of_use_url": "https://playermon.com/term-of-use.html",
+    "tutorial_url": "https://playermon.com/tutorial.html",
+    "marketplace_url": "https://playermon.com/marketplace.html",
+    "announcements": [
+      "https://playermon.com/img/horizontal_logo.0750ec9f.png",
+      "https://playermon.com/img/coming_soon_text.a822f30e.png"
+    ],
+    "user_profile": {
+      "username": "Tester 1",
+      "title": "Playermon Master",
+      "pym_tokens": 20,
+      "sgem_tokens": 250,
+      "current_energy_points": 20,
+      "maximum_energy_points": 20,
+      "energy_update_remaining_seconds": 0,
+      "selected_team": null,
+      "random_playermons": []
+    }
+  }
+}

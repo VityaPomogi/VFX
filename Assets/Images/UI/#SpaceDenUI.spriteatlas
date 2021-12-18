@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: '#SpaceDenUI'
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8890d2e054925454184ed44cd35af6d0, type: 3}
+    totalSpriteSurfaceArea: 1773429
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4956c73097da08a469c8d82bcbd5a8a9, type: 3}
+  - {fileID: 21300000, guid: b3f52c61d01d04c3faf94824d4110ee8, type: 3}
+  - {fileID: 21300000, guid: de0affa145f8a484a99776694c353c3d, type: 3}
+  - {fileID: 21300000, guid: 823829b12e9e743a69abb23257b39588, type: 3}
+  - {fileID: 21300000, guid: 058c6012ecab9484a9730dae71145924, type: 3}
+  - {fileID: 21300000, guid: bfa02d221fca14398a4819f6202b1eec, type: 3}
+  - {fileID: 21300000, guid: d33be0728419c47c5955060810d30deb, type: 3}
+  - {fileID: 21300000, guid: 1d4305828f684fc459a37736a2b08fba, type: 3}
+  - {fileID: 21300000, guid: 5eed7db2c07c04f9a9c85629a13d1ee0, type: 3}
+  - {fileID: 21300000, guid: 7903831307d894bda8333cc311ff7305, type: 3}
+  - {fileID: 21300000, guid: b0fcd323aef2541f497d0001ccf56753, type: 3}
+  - {fileID: 21300000, guid: 18d76e23dfc1046068962936e019ca08, type: 3}
+  - {fileID: 21300000, guid: be974133cb1c244dba9df406cb370f62, type: 3}
+  - {fileID: 21300000, guid: 0b5a0e4385326415597d5c168f6d2086, type: 3}
+  - {fileID: 21300000, guid: a62dce639819c8c43b22ad1b7af26755, type: 3}
+  - {fileID: 21300000, guid: d00cdf242284647369e4142c30b437cc, type: 3}
+  - {fileID: 21300000, guid: c939315435e898542b663398782eaeb0, type: 3}
+  - {fileID: 21300000, guid: 65185c64566ef2949b2cfd047ad99fcc, type: 3}
+  - {fileID: 21300000, guid: c03fe1944de8d4ee0b38092b8616d984, type: 3}
+  - {fileID: 21300000, guid: e1ac7e25383fd43869c368b83cc6ba0b, type: 3}
+  - {fileID: 21300000, guid: 46b741553d21d224ca0585d66b80e5a2, type: 3}
+  - {fileID: 21300000, guid: c4f514a6be56d45b49d9c2d35b7ebefd, type: 3}
+  - {fileID: 21300000, guid: 6c0122a74521c4bb1b4907f4249554c8, type: 3}
+  - {fileID: 21300000, guid: d6fa8318018ed4ba985f7eb823a7e3eb, type: 3}
+  - {fileID: 21300000, guid: b3b3e058ee50c4989a672a5d7d29bd85, type: 3}
+  - {fileID: 21300000, guid: 532bacd8acee4e040833ec856ddf1a42, type: 3}
+  - {fileID: 21300000, guid: 63232a397b48340e68a6a76a0d84094c, type: 3}
+  - {fileID: 21300000, guid: 5d4cd769ed1c14a51a5e06f4d24c280a, type: 3}
+  - {fileID: 21300000, guid: 5e6d1e7975a074b69ab9f3e503bff107, type: 3}
+  - {fileID: 21300000, guid: 42caf7aaa95714726924a20f20742056, type: 3}
+  - {fileID: 21300000, guid: f758136bc1e8c404ba538b7a1960d057, type: 3}
+  - {fileID: 21300000, guid: 9a6867bb4ebfb48958d97819aba6e159, type: 3}
+  - {fileID: 21300000, guid: fa45683ef49ed449cad92f8e06482176, type: 3}
+  - {fileID: 21300000, guid: 86414a0f0506d4fcc9436628de69181c, type: 3}
+  - {fileID: 21300000, guid: be6c9d8f5ed17474c9b0ff929d65a333, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BackPlate_Blue
+  - Info Box_SGEM
+  - PopUp_SomingSoon
+  - Happy Hour_Number_Feed
+  - Gizmo_Glove
+  - Happy Hour_Panel
+  - Popup Board_FAILED
+  - BottomDeck
+  - Happy Hour_Bubble_Bathe
+  - Frame_Reward
+  - Happy Hour_Bubble_Feed
+  - Frame_Failed
+  - Number_Button
+  - Info Box_Love Rank
+  - BackPlate_Yellow
+  - Camera Pan_Button_Triggered
+  - BackPlate_Red
+  - Gizmo_Cookie
+  - Button_Green_SS
+  - Happy Hour_Bubble_Play
+  - Button_Shop
+  - Button_Setting
+  - Camera Pan_Back Bar
+  - Camera Pan_Button_Normal
+  - Button_Yellow_MS
+  - BackPlate_FillBar
+  - Happy Hour_Number_Bathe
+  - Button_Gift
+  - HelpCircle
+  - SGEM Token
+  - Happy Hour_Number_Play
+  - Popup Board_COMPLETE
+  - Button_D. Blue_SS
+  - Fill Up Bar
+  - Gizmo_Soap
+  m_RenderDataMap: {}
+  m_Tag: '#SpaceDenUI'
+  m_IsVariant: 0

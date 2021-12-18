@@ -1,0 +1,19 @@
+{
+  "status": 1,
+  "data": {
+    "spaceden_progress": {
+      "current_love_rank": 10,
+      "maximum_love_rank": 10,
+      "current_love_points": 0,
+      "maximum_love_points": 100,
+      "crisis_cooldown_remaining_seconds": 10,
+      "crisis_sgem_tokens_rewarded": 5,
+      "gift_boxes": 1,
+      "unlocked_decorative_item_ids": [
+        1,
+        2,
+        3
+      ]
+    }
+  }
+}

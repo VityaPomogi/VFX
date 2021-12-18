@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: '#Emojis'
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 7f7a70b2ef9134b74ae099753078c24b, type: 3}
+    - {fileID: 2800000, guid: e20461d8558b9486b9990a0f9740e696, type: 3}
+    - {fileID: 2800000, guid: 918cefb78f44d4fd5988598f3ef8bcdd, type: 3}
+    - {fileID: 2800000, guid: 6165bf16a37a3435d845c242daf77b18, type: 3}
+    - {fileID: 2800000, guid: 2f2c5e8851ab54adea2e6695d2f03115, type: 3}
+    - {fileID: 2800000, guid: 945e973dd8de8407989714dd708d9cf7, type: 3}
+    totalSpriteSurfaceArea: 153624
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7f7a70b2ef9134b74ae099753078c24b, type: 3}
+  - {fileID: 21300000, guid: 6165bf16a37a3435d845c242daf77b18, type: 3}
+  - {fileID: 21300000, guid: 918cefb78f44d4fd5988598f3ef8bcdd, type: 3}
+  - {fileID: 21300000, guid: 2f2c5e8851ab54adea2e6695d2f03115, type: 3}
+  - {fileID: 21300000, guid: e20461d8558b9486b9990a0f9740e696, type: 3}
+  - {fileID: 21300000, guid: 945e973dd8de8407989714dd708d9cf7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Emoji Bubble_Angry
+  - Emoji Bubble_Sad
+  - Emoji Bubble_Happy
+  - Emoji Bubble_Shock
+  - Emoji Bubble_Confuse
+  - Emoji Bubble_Sleepy
+  m_RenderDataMap: {}
+  m_Tag: '#Emojis'
+  m_IsVariant: 0

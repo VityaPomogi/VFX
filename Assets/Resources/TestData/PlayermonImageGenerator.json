@@ -1,0 +1,36 @@
+{
+    "status": 1,
+    "data": {
+        "id": 15799,
+        "swappable_body_parts": [
+            {
+                "label": "33",
+                "category": "head"
+            },
+            {
+                "label": "8",
+                "category": "eye"
+            },
+            {
+                "label": "36",
+                "category": "arm"
+            },
+            {
+                "label": "24",
+                "category": "leg"
+            },
+            {
+                "label": "34",
+                "category": "body"
+            },
+            {
+                "label": "33",
+                "category": "tail_object"
+            },
+            {
+                "label": "33",
+                "category": "chest_object"
+            }
+        ]
+    }
+}
